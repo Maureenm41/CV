@@ -1,0 +1,23 @@
+body
+{
+    background-image: linear-gradient(to bottom, #ff9bd2, #ffa2b6, #ffb29c, #ffc78b, #ffde89, #f0ea91,
+     #e1f59f, #d0ffb1, #b7ffc8, #a7ffde, #a1fcf0, #a6f7fc);
+}
+
+.photo
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #FCFEBC;
+  box-shadow: 2px 2px 20px #000;
+  float: right;
+}
+
+#CV
+{
+    font-family: 'Quando', serif;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: underline;
+}
