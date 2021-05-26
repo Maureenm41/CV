@@ -4,6 +4,7 @@ body
      #e1f59f, #d0ffb1, #b7ffc8, #a7ffde, #a1fcf0, #a6f7fc);*/
      background-image: url("assets/pexels-evgeny-tchebotarev-2235302.jpg");
      background-repeat: no-repeat;
+     background-size: 50%;
      height: 100%;
      background-size: cover;
 }
