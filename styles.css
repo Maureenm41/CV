@@ -2,7 +2,8 @@ body
 {
     /*background-image: linear-gradient(to bottom, #ff9bd2, #ffa2b6, #ffb29c, #ffc78b, #ffde89, #f0ea91,
      #e1f59f, #d0ffb1, #b7ffc8, #a7ffde, #a1fcf0, #a6f7fc);*/
-     background-image: url("assets/pexels-evgeny-tchebotarev-2235302.jpg");
+     /*background-image: url("assets/pexels-evgeny-tchebotarev-2235302.jpg");*/
+     background-color: rgb(102, 102, 102);
      background-repeat: no-repeat;
      background-size: 50%;
      height: 100%;
@@ -30,4 +31,9 @@ header
     font-size: 100px;
     text-align: center;
     text-decoration: underline;
+}
+
+th
+{
+  align : left;
 }
