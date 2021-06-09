@@ -1,34 +1,16 @@
-body
-{
-    /*background-image: linear-gradient(to bottom, #ff9bd2, #ffa2b6, #ffb29c, #ffc78b, #ffde89, #f0ea91,
-     #e1f59f, #d0ffb1, #b7ffc8, #a7ffde, #a1fcf0, #a6f7fc);*/
-     /*background-image: url("assets/pexels-evgeny-tchebotarev-2235302.jpg");*/
-     background-color: rgb(102, 102, 102);
-     background-repeat: no-repeat;
-     background-size: 50%;
-     height: 100%;
-     background-size: cover;
+body {
+  background-color: #666666;
+  background-image: url(assets/pexels-evgeny-tchebotarev-2235302.jpg);
+  background-size: auto auto;
 }
 
-header
-{
-  background-color: rgba(0, 0, 0, 0.178);
+header {
+  background-color: rgba(0, 0, 0, 0.397);
+  text-align: center;
+  font-size: 100vh;
 }
 
-.photo
-{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border: 2px solid #00000038;
-  box-shadow: 2px 2px 20px #000;
+img {
   float: right;
 }
-
-#CV
-{
-    font-family: 'Quando', serif;
-    font-size: 100px;
-    text-align: center;
-    text-decoration: underline;
-}
+/*# sourceMappingURL=styles.css.map */
