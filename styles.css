@@ -1,7 +1,8 @@
 body {
   background-color: #666666;
-  background-image: url(assets/pexels-evgeny-tchebotarev-2235302.jpg);
-  background-size: auto auto;
+  background-image: url("assets/bg-code.jpg");
+  background-size: cover;
+  color: white;
 }
 
 header {

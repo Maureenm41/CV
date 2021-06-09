@@ -1,8 +1,9 @@
 body
 {
     background-color: rgb(102, 102, 102);
-    background-image: url(assets\bg code.jpg);
-    background-size: auto auto;
+    background-image: url("assets/bg-code.jpg");
+    background-size: cover;
+    color: white;
 }
 
 header
